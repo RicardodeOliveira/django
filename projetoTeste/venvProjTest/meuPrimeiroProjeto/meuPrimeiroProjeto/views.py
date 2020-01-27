@@ -20,4 +20,8 @@ def lerDoBanco(nome):
 
 
 def fname(request, nome):
-    return HttpResponse(lerDoBanco(nome))
+    result = lerDoBanco(nome)
+    if result['idade'] > 0:
+        return HttpResponse('A pessoa foi encontrada, ela tem '+ str(result['idade']) + ' anos')
+    else:
+        return HttpResponse('Pessoa nao encontrada')
