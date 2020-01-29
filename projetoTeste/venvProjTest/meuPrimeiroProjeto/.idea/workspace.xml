@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5284a4ce-07d6-4e1d-aab7-5814164df9fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meus_templates/person.html" beforeDir="false" afterPath="$PROJECT_DIR$/meus_templates/person.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meus_templates/person_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/meus_templates/person_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projetoFinal" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -52,19 +57,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="446" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580177452196" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580167762577">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580258495944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580167762577" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580258495944" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1580171994758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580171994758" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580167153499">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580250741713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040/1920.306.1366.728@0.0.1920.1040" timestamp="1580153496866" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580167153499" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580250741713" />
     <state x="623" y="239" key="search.everywhere.popup" timestamp="1580153182474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
