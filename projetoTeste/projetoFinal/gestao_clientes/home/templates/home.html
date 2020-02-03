@@ -3,12 +3,30 @@
 {% block title %} Seja bem vindo {% endblock %}
 
 {% block main %}
-    <h1>Seja bem vindo</h1>
 
-    {% if user.is_authenticated %}
-        <p>Ola {{ user.username }}</p>
-    <a href="{% url 'logout' %}">Sair</a>
-    {% else %}
-        <a href="{% url 'login' %}">Login</a>
-    {% endif %}
+    <div class="row">
+        <div class="col-6">
+
+        </div>
+
+        <div class="col-6">
+          <h1>Seja bem vindo</h1>
+        </div>
+
+        <div class="col-6">
+        {% if user.is_authenticated %}
+            <p>Ola {{ user.username }}</p>
+            <a href="{% url 'logout' %}">Sair</a>
+        {% else %}
+            <a href="{% url 'login' %}" class="btn btn-light">Login</a>
+        {% endif %}
+        </div>
+  </div>
+{% endblock %}
+{% block footer %}
+    <footer class="footer">
+        <div class="container">
+            <span class="text-muted">Desenvolvimento web com Django 2.0</span>
+        </div>
+    </footer>
 {% endblock %}
